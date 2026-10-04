@@ -4,7 +4,6 @@
 
 ## Install paths
 
-- **opencode:** `~/.config/opencode/skills/<name>/`
 - **Claude Code:** `~/.claude/skills/<name>/`
 - **Claude.ai:** zip the skill folder and upload in Settings → Skills
 
