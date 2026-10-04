@@ -1,6 +1,6 @@
 # notes-to-obsidian
 
-An Claude skill that turns photographed or scanned handwritten study notes into honest ratings, technique breakdowns, and polished Obsidian-ready notes — one topic at a time.
+A Claude skill that turns photographed or scanned handwritten study notes into honest ratings, technique breakdowns, and polished Obsidian-ready notes — one topic at a time.
 
 ## What it does
 
@@ -18,7 +18,8 @@ Two optional follow-ons after notes exist:
 
 ## Installation
 
-Copy this folder to `~/.config/opencode/skills/notes-to-obsidian/` (or wherever opencode looks for skills). Requires opencode with the skill system enabled.
+- **Claude.ai:** zip this folder and upload it in Settings → Skills.
+- **Claude Code:** copy this folder to `~/.claude/skills/notes-to-obsidian/`.
 
 ## Structure
 
