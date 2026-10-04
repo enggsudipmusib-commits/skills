@@ -1,6 +1,6 @@
 # notes-to-obsidian
 
-An [Claude] skill that turns photographed or scanned handwritten study notes into honest ratings, technique breakdowns, and polished Obsidian-ready notes — one topic at a time.
+An Claude skill that turns photographed or scanned handwritten study notes into honest ratings, technique breakdowns, and polished Obsidian-ready notes — one topic at a time.
 
 ## What it does
 
