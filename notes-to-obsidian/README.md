@@ -2,6 +2,8 @@
 
 A Claude skill that turns photographed or scanned handwritten study notes into honest ratings, technique breakdowns, and polished Obsidian-ready notes — one topic at a time.
 
+notes-to-obsidian was created with Claude, directed and reviewed by Sudip Musib.
+
 ## What it does
 
 Upload a photo or PDF of handwritten notes and get:
